@@ -140,11 +140,11 @@ sudo apt install apache2-utils   # Ubuntu
 ab -n 10000 -c 100 http://localhost:8080/
 ```
 ### Server Home Page
-![Server Screenshot](Screenshot%20(1436).png)
+![Server Screenshot](home.png)
 
 ### Echo Endpoint (/echo)
-![Echo Endpoint](Screenshot%20(1437).png)
+![Echo Endpoint](echo.png)
 
 ### Health Check (/health)
-![Health Check](Screenshot%20(1438).png)
+![Health Check](health.png)
 
