@@ -139,3 +139,12 @@ sudo apt install apache2-utils   # Ubuntu
 # 10,000 requests, 100 concurrent
 ab -n 10000 -c 100 http://localhost:8080/
 ```
+### Server Home Page
+![Server Screenshot](<Screenshot (1436>).png)
+
+### Echo Endpoint (/echo)
+![Echo Endpoint](Screenshot (1437))
+
+### Health Check (/health)
+![Health Check](Screenshot (1438))
+
